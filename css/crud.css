@@ -1,0 +1,26 @@
+/**
+ * VUEJS CRUD DEMO APPLICATION
+ *
+ * @author Nguyen Nhu Tuan <tuanquynh0508@gmail.com>
+ * @home http://tnqsoft.com
+ * @version 1.0.0
+ */
+
+body {
+    padding: 20px;
+}
+.crud-panel {
+    width: 50%;
+    margin: auto;
+}
+.crud-panel h1 {
+    font-size: 20px;
+    color: #666;
+}
+
+.bg-grey {
+    background-color: #eaeaea;
+}
+.crud-title {
+    margin-bottom: 15px;
+}
